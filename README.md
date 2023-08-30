@@ -13,22 +13,27 @@ I am a Machine Learning Research Assistant at [University of Essex (Gene Regulat
 </div>
 
 <h2 align="center"> Experiences </h1>
-
+<div align="center">
 👨‍💻 ML Research Assistant @UniversityOfEssex | ✨ Ex. Software Engineer @SoftechSystems
-
+</div>
 </div>
 
 <hr>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-**Languages I have used**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
+<h2 align="center"> Languages I have used </h1>
+<p align="center">
+<img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/>
+<img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396"/>
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL"/>
+</p>
+</div>
+<br>
 
 **Some of the technologies I have worked with**
 
@@ -78,10 +83,7 @@ I am a Machine Learning Research Assistant at [University of Essex (Gene Regulat
   &emsp; 
 <a href="mailto:abdullahmoazzam467@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello">
 <img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/>
-</a>
-  &emsp; 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/abdullahmoazzam)
-   &emsp; 
+</a> 
 <a href="https://linkedin.com/in/abdullahmoazzam467">
  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
