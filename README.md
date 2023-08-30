@@ -18,6 +18,9 @@ I am a Machine Learning Research Assistant at [University of Essex (Gene Regulat
 
 </div>
 
+<hr>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 **Languages I have used**
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
