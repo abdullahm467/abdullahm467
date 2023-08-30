@@ -22,9 +22,8 @@ I am a Machine Learning Research Assistant at [University of Essex (Gene Regulat
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 
-
-<h2 align="center"> Languages I have used </h1>
-<p align="center">
+**Languages I have used**
+<p>
 <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/>
 <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396"/>
@@ -32,7 +31,6 @@ I am a Machine Learning Research Assistant at [University of Essex (Gene Regulat
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 <img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL"/>
 </p>
-</div>
 <br>
 
 **Some of the technologies I have worked with**
@@ -41,8 +39,6 @@ I am a Machine Learning Research Assistant at [University of Essex (Gene Regulat
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032"></a>
     &emsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
